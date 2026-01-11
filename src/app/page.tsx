@@ -1,5 +1,6 @@
 import FeaturedCourses from "./components/FeaturedCourses";
 import HeroSection from "./components/HeroSection";
+import Instructors from "./components/Instructors";
 import MusicContend from "./components/MusicContend";
 import MusicTestimonialCard from "./components/MusicTesimonialCard";
 import UpcomingWebinar from "./components/UpcomingWebinar";
@@ -13,6 +14,7 @@ export default function Home() {
         <MusicContend />
         <MusicTestimonialCard />
         <UpcomingWebinar />
+        <Instructors />
       </main>
     </>
   );
