@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Vocal Mastery",
+      "slug": "vocal-mastery",
+      "description": "Master your voice with advanced vocal techniques and performance training.",
+      "price": 89.99,
+      "instructor": "Emily Blunt",
+      "isFeatured": true,
+      "image": "/courses/vocal.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Drumming Basics",
+      "slug": "drumming-basics",
+      "description": "Learn rhythm, beats, and drumming techniques from scratch.",
+      "price": 120.0,
+      "instructor": "Mike Portnoy",
+      "isFeatured": false,
+      "image": "/courses/drum.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Music Production",
+      "slug": "music-production",
+      "description": "Dive into the world of digital audio workstations and produce your own tracks.",
+      "price": 199.99,
+      "instructor": "Hans Zimmer",
+      "isFeatured": true,
+      "image": "/courses/production.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Songwriting Essentials",
+      "slug": "songwriting-essentials",
+      "description": "Unlock your creativity and learn the art of writing compelling songs.",
+      "price": 75.5,
+      "instructor": "Taylor Swift",
+      "isFeatured": false,
+      "image": "/courses/songwriting.jpg"
+    }
+  ]
+}
