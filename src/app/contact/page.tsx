@@ -1,4 +1,3 @@
-import React from "react";
 import { Meteors } from "@/components/ui/meteors";
 
 const Page = () => {

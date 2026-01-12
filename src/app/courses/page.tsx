@@ -1,7 +1,7 @@
 "use client";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
 import courseData from "@/app/data/music_courses.json";
-import { Key } from "lucide-react";
+
 const page = () => {
   return (
     <div className="min-h-screen bg-black py-21 pt-36 ">
