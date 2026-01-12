@@ -5,7 +5,7 @@ const Page = () => {
     // ১. মেইন কন্টেইনার: পুরো স্ক্রিন (h-screen) এবং overflow-hidden যাতে স্ক্রলবার না আসে
     <div className="h-screen w-full bg-gray-900  relative flex flex-col items-center justify-center overflow-hidden">
       {/* ২. এই হলো উল্কা বা Meteors এফেক্ট যা পুরো ব্যাকগ্রাউন্ডে থাকবে */}
-      <Meteors number={100} />
+      <Meteors number={70} />
 
       {/* ৩. আপনার কন্টেন্ট বা ফর্ম (z-10 দেওয়া হয়েছে যাতে ব্যাকগ্রাউন্ডের উপরে থাকে) */}
       <div className="relative z-10 w-full max-w-2xl px-4 mt-10">
